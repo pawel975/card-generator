@@ -2,6 +2,8 @@
 /** CSS RESET **/
 /***************/
 
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 /* Box sizing rules */
 *,
 *::before,
@@ -32,6 +34,10 @@ ol[role='list'] {
 /* Set core root defaults */
 html:focus-within {
   scroll-behavior: smooth;
+}
+
+html {
+  font-family: 'Ubuntu', sans-serif;
 }
 
 /* Set core body defaults */
