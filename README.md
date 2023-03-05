@@ -8,7 +8,7 @@ Run `npm install` to install all depenedencies.
 
 ## Development 
 
-Run `npm start` to run app in dev mode.
+Run `npm start` to run app in dev mode
 
 ## Build
 
